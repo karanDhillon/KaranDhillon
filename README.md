@@ -15,4 +15,4 @@ Hello, My name is Karan Dhillon. I'm a mobile Engineer at [Homestars](https://ho
 [![](https://img.shields.io/badge/twitter-karandhillon95-success)](https://twitter.com/karandhillon95)
 [![](https://img.shields.io/badge/linkedin-KaranDhillon1995-success)](https://www.linkedin.com/in/karandhillon1995/)
 [![](https://img.shields.io/badge/Medium-codingwithkaran-success)](https://codingwithkaran.medium.com/)
-[![](https://img.shields.io/badge/Blog-codingwithkaran-success)](https://codingwithkaran.com/)
+[![](https://img.shields.io/badge/Blog-kdhillon.com-success)](https://kdhillon.com/)
