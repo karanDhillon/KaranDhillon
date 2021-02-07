@@ -13,7 +13,7 @@ Hello, My name is Karan Dhillon. I'm a mobile Engineer at [Homestars](https://ho
 |<p align="center">Private<p>|![Github stats](https://github-readme-stats.vercel.app/api?username=karandhillon&count_private=true&show_icons=true&theme=vue&hide_title=true)|
 
 ## Reach out to me
-[![](https://img.shields.io/badge/twitter-karandhillon95-success)](https://twitter.com/karandhillon95)
+[![](https://img.shields.io/badge/twitter-@karandhillon95-success)](https://twitter.com/karandhillon95)
 [![](https://img.shields.io/badge/linkedin-karandhillon95-success)](https://www.linkedin.com/in/karandhillon95/)
-[![](https://img.shields.io/badge/Medium-karandhillon95-success)](https://karandhillon95.medium.com/)
+[![](https://img.shields.io/badge/Medium-karandhillon95.medium.com-success)](https://karandhillon95.medium.com/)
 [![](https://img.shields.io/badge/Blog-kdhillon.com-success)](https://kdhillon.com/)
