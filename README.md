@@ -7,9 +7,10 @@ Hello, My name is Karan Dhillon. I'm a mobile Engineer at [Homestars](https://ho
 - Ask me anything, among others **Android**, **Kotlin**, **testing**, **clean architecture**...
 
 ## Github Stats
-> All the stats below are from [active work account](https://github.com/hs-kdhillon).
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=hs-kdhillon&count_private=true&show_icons=true&theme=vue&hide_title=true)
+|<p align="center">**Account Type**</p>|<p align="center">**Stats**</p>|
+|------------|-----|
+|<p align="center">Work<p>|![Github stats](https://github-readme-stats.vercel.app/api?username=hs-kdhillon&count_private=true&show_icons=true&theme=vue&hide_title=true)|
+|<p align="center">Private<p>|![Github stats](https://github-readme-stats.vercel.app/api?username=karandhillon&count_private=true&show_icons=true&theme=vue&hide_title=true)|
 
 ## Reach out to me
 [![](https://img.shields.io/badge/twitter-karandhillon95-success)](https://twitter.com/karandhillon95)
