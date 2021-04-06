@@ -1,15 +1,15 @@
 ## About me
-Hello, My name is Karan Dhillon. I'm a mobile Engineer at [Homestars](https://homestars.com/).
+Hello, My name is Karan Dhillon. I'm a mobile Engineer at [Hootsuite](https://www.hootsuite.com/).
 
-- I’m currently building the new **Homestars For Homeowners** android project.
-- I’m currently solving the **data structure and algorithm** problems on [Leetcode](https://leetcode.com/problemset/all/).
+- I’m currently working on **Hootsuite** android application.
 - I’m currently learning android's **jetpack compose** and **kotlin multiplatform**.
 - Ask me anything, among others **Android**, **Kotlin**, **testing**, **clean architecture**...
 
 ## Github Stats
 |<p align="center">**Account Type**</p>|<p align="center">**Stats**</p>|
 |------------|-----|
-|<p align="center">Work<p>|![Github stats](https://github-readme-stats.vercel.app/api?username=hs-kdhillon&count_private=true&show_icons=true&theme=vue&hide_title=true)|
+|<p align="center">Hootsuite<p>|N/A (on Github Enterprise)|
+|<p align="center">Homestars (Past)<p>|![Github stats](https://github-readme-stats.vercel.app/api?username=hs-kdhillon&count_private=true&show_icons=true&theme=vue&hide_title=true)|
 |<p align="center">Private<p>|![Github stats](https://github-readme-stats.vercel.app/api?username=karandhillon&count_private=true&show_icons=true&theme=vue&hide_title=true)|
 
 ## Reach out to me
